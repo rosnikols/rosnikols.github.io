@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 [rosnikols.github.io](https://github.com/rosnikols/rosnikols.github.io/zipball/master/)\
-[playground](https://github.com/rosnikols/playground/zipball/tree/java/gradle)\
+[playground](https://github.com/rosnikols/playground/zipball/tree/java/gradle)
 
 
 You can use the [editor on GitHub](https://github.com/rosnikols/rosnikols.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
