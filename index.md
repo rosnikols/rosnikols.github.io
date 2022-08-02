@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+[rosnikols.github.io](https://github.com/rosnikols/rosnikols.github.io/zipball/master/)
+[playground](https://github.com/rosnikols/playground/zipball/tree/java/gradle)
+
+
 You can use the [editor on GitHub](https://github.com/rosnikols/rosnikols.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
